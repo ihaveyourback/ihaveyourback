@@ -5,6 +5,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fihaveyourback%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=actigraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark" />  
+
 ---
 
 ## 🙋‍♂️ About Me  
@@ -57,6 +59,5 @@ Spring Framework와 다양한 웹 기술을 활용해 사용자 중심의 웹 �
 
 ## 🌟 Fun Section  
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark" />  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=I%20have%20your%20back&fontSize=90" />
