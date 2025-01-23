@@ -45,7 +45,7 @@ Spring Framework와 다양한 웹 기술을 활용해 사용자 중심의 웹 �
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
 
 ### **Collaboration Tools**  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/15efe362747780978d2bf1ae59fdf7e6)
 
 ---
 
