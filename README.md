@@ -57,7 +57,4 @@ Spring Framework와 다양한 웹 기술을 활용해 사용자 중심의 웹 �
 
 ---
 
-## 🌟 Fun Section  
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=I%20have%20your%20back&fontSize=90" />
