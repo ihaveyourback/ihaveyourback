@@ -1,5 +1,5 @@
 # YHKIM  
-**너의 뒤에는 내가 있어**
+**"A developer who is always having your back in every step you take"**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=I%20have%20your%20back&fontSize=90" />
 
