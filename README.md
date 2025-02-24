@@ -10,7 +10,14 @@
 ---
 
 ## 🙋‍♂️ About Me  
-안녕하세요! 백엔드 개발자로 성장하고 있는 YHKIM입니다.  
+안녕하세요! 풀스택farm.com)
+
+<img src="http://mazandi.herokuapp.com/api?handle=ihaveyourback&theme=dark" alt="GitHub Grass">
+
+---
+
+## 🙋‍♂️ About Me  
+안녕하세요! 풀스택 개발자로 성장하고 있는 YHKIM입니다.  
 Spring Framework와 다양한 웹 기술을 활용해 사용자 중심의 웹 애플리케이션을 개발하는 데 열정을 가지고 있습니다.  
 끊임없이 배우고 성장하며, 팀워크를 통해 더 나은 결과물을 만들어가는 것을 좋아합니다.
 
